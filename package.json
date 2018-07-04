@@ -1,0 +1,19 @@
+{
+  "name": "django-hash",
+  "version": "1.0.0",
+  "description": "Django hash & verify (pbkdf2_sha256) password in auth_user table.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/somprasongd/django-hash.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "django",
+    "hash",
+    "pbkdf2",
+    "sha256"
+  ],
+  "author": "Somprasong Damyos",
+  "license": "ISC"
+}
