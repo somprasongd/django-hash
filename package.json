@@ -1,6 +1,6 @@
 {
   "name": "django-hash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Django hash & verify (pbkdf2_sha256) password in auth_user table.",
   "main": "index.js",
   "repository": {
